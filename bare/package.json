@@ -1,0 +1,19 @@
+{
+  "name": "testing_code-mirror",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "rollup -c --bundleConfigAsCjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@codemirror/commands": "^6.6.0",
+    "@codemirror/state": "^6.4.1",
+    "@codemirror/view": "^6.28.5",
+    "@rollup/plugin-node-resolve": "^15.2.3"
+  }
+}
