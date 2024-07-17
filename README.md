@@ -11,18 +11,18 @@ git clone git@github.com:pelevesque/testing_code-mirror.git
 cd testing_code-mirror
 ```
 
-Every implementation is in a named folder. To try one out,
+Every implementation is in a named folder. To try one,
 cd into that folder and run npm install and npm start.
 
-Below is an example of installing the ```basic``` setup.
+Below is an example of installing the ```basicSetup``` implementation.
 
 ```bash
-cd basic
+cd basicSetup
 npm install
 npm start # Build the editor.bundle.js file from editor.mjs
 ```
 
-Now you can open basic/index.html in a browser.
+Now you can open basicSetup/index.html in a browser.
 
 ## Editing
 
