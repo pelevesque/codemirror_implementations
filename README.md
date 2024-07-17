@@ -1,18 +1,18 @@
-# Testing Code Mirror
+# Code Mirror Implementations
 
-Testing various implementations of Code Mirror.
-
+A collection of Code Mirror implementations.
+----------------------------------------------------------------------
 ## Installation
 
 Make sure you have node and npm installed. Then do:
 
 ```bash
-git clone git@github.com:pelevesque/testing_code-mirror.git
-cd testing_code-mirror
+git clone git@github.com:pelevesque/codemirror-implementations.git
+cd codemirror-implementations
 ```
 
-Every implementation is in a named folder. To try one,
-cd into that folder and run npm install and npm start.
+Every implementation is in a named folder. To try one, cd into that
+folder and run npm install then npm start.
 
 Below is an example of installing the ```basicSetup``` implementation.
 
@@ -27,7 +27,7 @@ Now you can open basicSetup/index.html in a browser.
 ## Editing
 
 You can modify a Code Mirror implementation by editing its
-editor.mjs file and then building its editor.bundle.js by running:
+editor.mjs file and then rebuilding its editor.bundle.js by running:
 
 ```bash
 npm start
