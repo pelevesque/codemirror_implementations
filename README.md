@@ -7,7 +7,7 @@ A collection of Code Mirror implementations.
 Make sure you have node and npm installed. Then do:
 
 ```bash
-git clone git@github.com:pelevesque/codemirror-implementations.git
+git clone git@github.com:pelevesque/codemirror_implementations.git
 cd codemirror-implementations
 ```
 
